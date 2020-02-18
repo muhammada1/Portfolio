@@ -16,7 +16,7 @@ a_ABC = ((a_ABC_rad * 180)/ pi)
 a_ABC_round = round(a_ABC)
 a_ABC_str = str(a_ABC_round)
 
-print(a_ABC_str + "°")
+print(a_ABC_str + "Â°")
 
 
 
@@ -34,6 +34,6 @@ a_MBC_str = str(a_MBC_round)
 #a_MBC_str = str(a_MBC_int)
 
 
-print(a_MBC_str + "°")
+print(a_MBC_str + "Â°")
 '''
 
