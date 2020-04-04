@@ -1,8 +1,8 @@
 from selenium import webdriver
 #from selenium.webdriver.common.keys import Keys
 
-username = 'muhammadabedeljaber@hotmail.com'
-password = 'Muhammad@12'
+username = ''
+password = ''
 
 url = 'http://www.facebook.com/'
 
